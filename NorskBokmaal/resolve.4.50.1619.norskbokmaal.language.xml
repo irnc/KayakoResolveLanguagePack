@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML Generated On: 08 September 2012 11:39 PM -->
+<swiftlanguage>
+<title><![CDATA[Norsk (Bokmål)]]></title>
+<isocode><![CDATA[nb-no]]></isocode>
+<author><![CDATA[Retarded Tech (www.rtrd.no)]]></author>
+<charset><![CDATA[UTF-8]]></charset>
+<textdirection><![CDATA[LTR]]></textdirection>
+<version><![CDATA[4.50.1619]]></version>
+<flagicon><![CDATA[{$themepath}no.gif]]></flagicon>
+<phrase section="users" code="accountinformation"><![CDATA[Kontoinformasjon]]></phrase>
+<phrase section="ticketemails" code="acfinalintro"><![CDATA[Denne meldingen gjelder saksnummer #%s. Vi endrer statusen p&aring; saksnummer '%s' siden vi ikke har mottatt tilbakemelding fra deg de siste %s timene.]]></phrase>
+<phrase section="ticketemails" code="acfinalsubfooter"><![CDATA[Hvis du har videre sp&oslash;rsm&aring;l s&aring; ta kontakt. Du kan sjekke status eller gi tilbakemelding p&aring; din henvendelse fra:]]></phrase>
+<phrase section="ticketemails" code="acpendingintro"><![CDATA[Denne meldingen gjelder saksnummer #%s. Vi har ikke mottatt noen tilbakemelding fra deg siste %s timene, og lurer derfor p&aring; om du anser saken som l&oslash;st. Hvis du har ytterligere sp&oslash;rsm&aring;l kan du gjerne svare p&aring; denne e-posten.]]></phrase>
+<phrase section="ticketemails" code="acpendingsubfooter"><![CDATA[Vennligst bemerk at denne saken vil automatisk bli lukket etter %s timer hvis vi ikke har mottatt noen tilbakemelding fra deg. Saken vil ikke bli lukket hvis du sender svar. Du kan sjekke status eller svare p&aring; din henvendelse p&aring;:]]></phrase>
+<phrase section="default" code="action_notreg"><![CDATA[%s oppgave er ikke registrert]]></phrase>
+<phrase section="default" code="app_notreg"><![CDATA[%s app er ikke registrert]]></phrase>
+<phrase section="ticketemails" code="ardepartment"><![CDATA[Avdeling:]]></phrase>
+<phrase section="ticketemails" code="aremail"><![CDATA[E-post: ]]></phrase>
+<phrase section="ticketemails" code="arfooter"><![CDATA[Med vennlig hilsen,]]></phrase>
+<phrase section="ticketemails" code="arintro"><![CDATA[Takk for at du kontakter oss. Dette er et automatisk svar som bekrefter mottak av henvendelsen din. En av v&aring;re representanter vil komme tilbake til deg s&aring; snart som mulig. For sikkerhets skyld, er detaljene i henvendelsen nedenfor. N&aring;r du svarer, m&aring; du s&oslash;rge for at henvendelse IDen holdes i emnefeltet for &aring; sikre at ditt svar spores p&aring; riktig m&aring;te.]]></phrase>
+<phrase section="ticketemails" code="arpassword"><![CDATA[Passord: ]]></phrase>
+<phrase section="ticketemails" code="arpriority"><![CDATA[Prioritet: ]]></phrase>
+<phrase section="ticketemails" code="arstatus"><![CDATA[Status: ]]></phrase>
+<phrase section="ticketemails" code="arsubfooter"><![CDATA[Du kan sjekke status p&aring; eller svare p&aring; denne henvendelsen online p&aring;:]]></phrase>
+<phrase section="ticketemails" code="arsubject"><![CDATA[Emne: ]]></phrase>
+<phrase section="ticketemails" code="articketid"><![CDATA[Henvendelse ID: ]]></phrase>
+<phrase section="knowledgebase" code="articlehelpful"><![CDATA[Denne artikkelen var til hjelp]]></phrase>
+<phrase section="knowledgebase" code="articlenothelpful"><![CDATA[Denne artikkelen var ikke til hjelp]]></phrase>
+<phrase section="knowledgebase" code="articlevotes"><![CDATA[stemme(r)]]></phrase>
+<phrase section="ticketemails" code="artype"><![CDATA[Type: ]]></phrase>
+<phrase section="tickets" code="badgebcc"><![CDATA[Blindkopi]]></phrase>
+<phrase section="tickets" code="badgecc"><![CDATA[Mottaker]]></phrase>
+<phrase section="tickets" code="badgestaff"><![CDATA[Ansatt]]></phrase>
+<phrase section="tickets" code="badgethirdparty"><![CDATA[Tredjepart]]></phrase>
+<phrase section="tickets" code="badgeuser"><![CDATA[Bruker]]></phrase>
+<phrase section="default" code="buttonback"><![CDATA[&laquo; Tilbake]]></phrase>
+<phrase section="default" code="buttonnext"><![CDATA[Neste &raquo;]]></phrase>
+<phrase section="default" code="buttonsend"><![CDATA[Send]]></phrase>
+<phrase section="default" code="buttonsubmit"><![CDATA[Utf&oslash;r]]></phrase>
+<phrase section="default" code="buttonupdate"><![CDATA[Oppdater]]></phrase>
+<phrase section="default" code="bytes"><![CDATA[Bytes]]></phrase>
+<phrase section="mime" code="bz"><![CDATA[BZ Fil]]></phrase>
+<phrase section="mime" code="bz2"><![CDATA[BZ2 Fil]]></phrase>
+<phrase section="default" code="cancel"><![CDATA[Avbryt]]></phrase>
+<phrase section="default" code="captchadesc"><![CDATA[Vennligst skriv inn teksten du ser i bildet i feltet under. Dette er n&oslash;dvendig for &aring; hindre automatiserte registreringer.]]></phrase>
+<phrase section="default" code="captchaverification"><![CDATA[CAPTCHA verifisering]]></phrase>
+<phrase section="users" code="changepasswordtitle"><![CDATA[Endre passord]]></phrase>
+<phrase section="default" code="charset"><![CDATA[UTF-8]]></phrase>
+<phrase section="default" code="close"><![CDATA[Lukk]]></phrase>
+<phrase section="default" code="commentconfirmation"><![CDATA[Takk for at du sendte oss tilbakemeldingen din. Din kommentar kan v&aelig;re flagges for gjennomgang og vil vises n&aring;r godkjent av v&aring;re ansatte.]]></phrase>
+<phrase section="default" code="commentdata"><![CDATA[Komentarer:]]></phrase>
+<phrase section="default" code="commentemail"><![CDATA[E-post:]]></phrase>
+<phrase section="default" code="commentfullname"><![CDATA[Fullt name:]]></phrase>
+<phrase section="default" code="comments"><![CDATA[Kommentarer]]></phrase>
+<phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako Infotech Ltd.]]></phrase>
+<phrase section="default" code="creationfailed"><![CDATA[Opprettelse av objekt feilet.]]></phrase>
+<phrase section="default" code="defaulttimezone"><![CDATA[-- Standard tidssone --]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.kayako.com" target="_blank" class="bottomfooterlink">Help Desk Software</a> by Kayako %s<br/><a href="http://www.rtrd.no/" target="_blank" class="bottomfooterlink">Norsk spr&aring;kpakke av Retarded Tech (www.rtrd.no)</a>]]></phrase>
+<phrase section="mime" code="doc"><![CDATA[MS Word Dok]]></phrase>
+<phrase section="mime" code="docx"><![CDATA[MS Word Dok]]></phrase>
+<phrase section="users" code="emailaccounts"><![CDATA[E-postkontoer]]></phrase>
+<phrase section="default" code="emailinvalid"><![CDATA[Angitt e-postadresse er ugjyldig]]></phrase>
+<phrase section="users" code="emailuserpw"><![CDATA[Nytt passord:]]></phrase>
+<phrase section="default" code="errcaptchainvalid"><![CDATA[CAPTCHA-teksten matcher ikke.]]></phrase>
+<phrase section="users" code="errorinvalidfileext"><![CDATA[Profilbildet har ugyldig filtype. Gyldige filtyper er: gif, jpeg, jpg, png]]></phrase>
+<phrase section="default" code="errorsmtpconnect"><![CDATA[Klarer ikke koble til SMTP serveren]]></phrase>
+<phrase section="tickets" code="errstinvaliddepartmentid"><![CDATA[Ugyldig avdelings-ID av angitt; velg en gyldig avdeling.]]></phrase>
+<phrase section="default" code="event_notreg"><![CDATA[%s hendelsen er ikke registrert]]></phrase>
+<phrase section="users" code="existingpassword"><![CDATA[N&aring;v&aelig;rende passord:]]></phrase>
+<phrase section="users" code="existingpwdoesnotmatch"><![CDATA[Ugyldig n&aring;v&aelig;rende passord, og kan derfor ikke fortsette.]]></phrase>
+<phrase section="default" code="file"><![CDATA[Fil]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Kunnskapsbase]]></phrase>
+<phrase section="default" code="filternews"><![CDATA[Nyhetskategorier]]></phrase>
+<phrase section="users" code="forgotpasswordemail"><![CDATA[Vi har mottatt en foresp&oslash;rsel om &aring; tilbakestille passordet ditt for kontoen p&aring; %1$s support desk  (%2$s). Hvis du mener du har mottatt denne meldingen ved en feil, s&aring; kan du overse den.
+
+Hvis du vil tilbakestille passordet ditt, klikker du p&aring; lenken nedenfor eller kopierer og limer inn lenken i din nettleserens adresselinje:
+
+%3$s
+
+Med vennlig hilsen,
+
+
+%1$s]]></phrase>
+<phrase section="default" code="gb"><![CDATA[GB]]></phrase>
+<phrase section="default" code="generalinformation"><![CDATA[Generell informasjon]]></phrase>
+<phrase section="users" code="generaloptions"><![CDATA[Generelle alternativer]]></phrase>
+<phrase section="users" code="generatepasswordemailsubject"><![CDATA[Nytt passord for %s supportsenter]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[For ytterligere informasjon eller hvis du mener dette har blitt gjort uten ditt samtykke, vennligst kontakt v&aring;r servicedesk ved &aring; klikke p&aring; linken nedenfor.]]></phrase>
+<phrase section="users" code="generatepasswordintro"><![CDATA[Ditt passord til v&aring;rt servicesenter er nullstilt, og du finner det nedenfor: ]]></phrase>
+<phrase section="mime" code="gif"><![CDATA[GIF-bilde]]></phrase>
+<phrase section="mime" code="gz"><![CDATA[GZIP-fil]]></phrase>
+<phrase section="default" code="hidden"><![CDATA[[ Skjult ]]]></phrase>
+<phrase section="tickets" code="hideresolvedt"><![CDATA[Skjul l&oslash;ste henvendelser]]></phrase>
+<phrase section="default" code="home"><![CDATA[Hjem]]></phrase>
+<phrase section="mime" code="htm"><![CDATA[HTML-side]]></phrase>
+<phrase section="mime" code="html"><![CDATA[HTML-side]]></phrase>
+<phrase section="mime" code="ico"><![CDATA[Icon-fil]]></phrase>
+<phrase section="tickets" code="invalidattachments"><![CDATA[Vedlegget har blitt avvist p&aring; grunn av restriksjoner p&aring; filst&oslash;rrelse eller filtype: %s]]></phrase>
+<phrase section="default" code="invalidemail"><![CDATA[Ugyldig e-postadresse er angitt]]></phrase>
+<phrase section="users" code="invalidorganization"><![CDATA[Organisasjonen eksisterer ikke. Ta kontakt med support.]]></phrase>
+<phrase section="news" code="invalidsubscriberhash"><![CDATA[Ugyldig abonnent "hash"]]></phrase>
+<phrase section="default" code="invaliduser"><![CDATA[Ugyldig e-post eller passord]]></phrase>
+<phrase section="default" code="invaliduseracc"><![CDATA[Ugyldig brukerkonto. Kontoen eksisterer ikke.]]></phrase>
+<phrase section="default" code="invaliduserdisabled"><![CDATA[Kan ikke logge inn. Brukerkontoen er deaktivert]]></phrase>
+<phrase section="default" code="invaliduserexpired"><![CDATA[Kan ikke logge inn. Brukerkontoen er utg&aring;tt]]></phrase>
+<phrase section="default" code="invalidusertgroupres"><![CDATA[Kan ikke logge inn. Brukergruppen er ikke autorisert til denne mal-gruppen.]]></phrase>
+<phrase section="users" code="invalidverifyhash"><![CDATA[Ugyldig eller utg&aring;tt "hash"]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[F&oslash;lgende artikler fra v&aring;r kunnskapsbase kan v&aelig;r relevant for det du s&oslash;ker etter. Vennligst ta deg tid til &aring; se gjennom disse f&oslash;r du sender foresp&oslash;rselen.]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Laster forslag fra kunnskapsbasen...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[Ingen relevante artikler ble funnet i kunnskapsbasen.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Forslag fra kunnskapsbasen]]></phrase>
+<phrase section="mime" code="jar"><![CDATA[JAR-fil]]></phrase>
+<phrase section="mime" code="jpeg"><![CDATA[JPEG-bilde]]></phrase>
+<phrase section="mime" code="jpg"><![CDATA[JPEG-bilde]]></phrase>
+<phrase section="default" code="kb"><![CDATA[KB]]></phrase>
+<phrase section="knowledgebase" code="kbattachments"><![CDATA[Vedlegg]]></phrase>
+<phrase section="knowledgebase" code="kbnopermission"><![CDATA[Du har ikke n&oslash;dvendige rettigheter til &aring; se denne artikkelen, eller s&aring; finnes ikke artikkelen.]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Kunnskapsbase]]></phrase>
+<phrase section="default" code="languagefield"><![CDATA[Spr&aring;k:]]></phrase>
+<phrase section="default" code="latestupdates"><![CDATA[Siste oppdateringer]]></phrase>
+<phrase section="default" code="loggedinfromstaff"><![CDATA[Du er logget inn som: %s]]></phrase>
+<phrase section="default" code="login"><![CDATA[Logg p&aring;]]></phrase>
+<phrase section="default" code="loginenteremail"><![CDATA[Din e-postadresse]]></phrase>
+<phrase section="default" code="logintocontinue"><![CDATA[Vennligst logg p&aring; for &aring; fortsette]]></phrase>
+<phrase section="default" code="logout"><![CDATA[Logg ut]]></phrase>
+<phrase section="default" code="lostpassword"><![CDATA[Glemt passord]]></phrase>
+<phrase section="users" code="lostpassworddesc"><![CDATA[Vennligst skriv inn din registrerte e-postadresse nedenfor og klikk p&aring; Utf&oslash;r. Du vil om kort tid motta en e-post som inneholder en link til hvor du kan nullstille passordet ditt.]]></phrase>
+<phrase section="users" code="lostpasswordemailsubject"><![CDATA[Foresp&oslash;rsel om glemt passord til %s supportsenter]]></phrase>
+<phrase section="users" code="lostpasswordresetdesc"><![CDATA[Vennligst skriv inn ditt nye passord nedenfor og klikk Utf&oslash;r for &aring; nullstille passordet ditt.]]></phrase>
+<phrase section="users" code="lostpasswordtitle"><![CDATA[Glemt passord]]></phrase>
+<phrase section="users" code="lpinvalidemail"><![CDATA[Finner ikke en brukerkonto med "%s" som e-postadresses]]></phrase>
+<phrase section="users" code="lprequestsent"><![CDATA[Foresp&oslash;rsel p&aring; &aring; nullstille passordet har blitt sendt til "%s"]]></phrase>
+<phrase section="users" code="lpsuccess"><![CDATA[Oppdateringen av passord var vellykket; du kan n&aring; logge inn med ditt nye passord.]]></phrase>
+<phrase section="default" code="machangepassword"><![CDATA[Endre passord]]></phrase>
+<phrase section="default" code="malogout"><![CDATA[Logg ut]]></phrase>
+<phrase section="default" code="maorganization"><![CDATA[Min organisasjon]]></phrase>
+<phrase section="default" code="mapreferences"><![CDATA[Alternativer]]></phrase>
+<phrase section="default" code="maprofile"><![CDATA[Min profil]]></phrase>
+<phrase section="default" code="mb"><![CDATA[MB]]></phrase>
+<phrase section="knowledgebase" code="mostpopular"><![CDATA[Mest popul&aelig;r]]></phrase>
+<phrase section="mime" code="mov"><![CDATA[QuickTime film]]></phrase>
+<phrase section="mime" code="mp3"><![CDATA[MPEG-lyd]]></phrase>
+<phrase section="mime" code="mpeg"><![CDATA[MPEG-video]]></phrase>
+<phrase section="mime" code="mpg"><![CDATA[MPEG-video]]></phrase>
+<phrase section="default" code="myaccount"><![CDATA[Konto]]></phrase>
+<phrase section="users" code="myorganization"><![CDATA[Min organisasjon]]></phrase>
+<phrase section="default" code="na"><![CDATA[- Ikke tilgjengelig -]]></phrase>
+<phrase section="news" code="newerposts"><![CDATA[Nyere saker &raquo;]]></phrase>
+<phrase section="users" code="newpassword"><![CDATA[Nytt passord:]]></phrase>
+<phrase section="users" code="newpasswordrepeat"><![CDATA[Nytt passord (gjenta):]]></phrase>
+<phrase section="users" code="newpwdoesnotmatch"><![CDATA[Passordene du skrev inn samsvarer ikke.]]></phrase>
+<phrase section="users" code="newpwupdated"><![CDATA[Brukerpassord oppdatert.]]></phrase>
+<phrase section="news" code="news"><![CDATA[Nyheter]]></phrase>
+<phrase section="news" code="newsnotfound"><![CDATA[Nyhet ikke funnet.]]></phrase>
+<phrase section="default" code="no"><![CDATA[Nei]]></phrase>
+<phrase section="default" code="noinfoinview"><![CDATA[Ikke noe informasjon er tilgjengelig i denne visningen]]></phrase>
+<phrase section="default" code="nopermission"><![CDATA[Kan ikke fortsette. Du har ikke rettigheter til &aring; utf&oslash;re denne handlingen.]]></phrase>
+<phrase section="default" code="nosearchresults"><![CDATA[Ingen resultater ble funnet]]></phrase>
+<phrase section="news" code="nwsubconfirmsub"><![CDATA[Abonnement p&aring; nyheter bekreftet]]></phrase>
+<phrase section="news" code="nwsubconintro"><![CDATA[Ditt abonnement p&aring; v&aring;re nyheter er bekreftet. Du vil fra n&aring; automatisk motta oppdateringer n&aring;r en ny artikkel er postet. Du kan avbryte abonnementet n&aring;r som helst ved &aring; klikke p&aring; linken nedenfor.]]></phrase>
+<phrase section="news" code="nwsubfooter"><![CDATA[Vennligst si i fra om det er noe annet vi kan hjelpe deg med,]]></phrase>
+<phrase section="news" code="nwsubintro"><![CDATA[Takk for ditt abonnement p&aring; v&aring;re nyheter. Du m&aring; bekrefte ditt abonnement f&oslash;r du vil motta nyhetsoppdateringer. Vennligst klikk p&aring; linken nedenfor for &aring; bekrefte ditt abonnement.]]></phrase>
+<phrase section="news" code="nwvalidatesubscriptionsub"><![CDATA[Bekreft ditt abonnement p&aring; nyheter]]></phrase>
+<phrase section="news" code="olderposts"><![CDATA[&laquo; Tidligere saker]]></phrase>
+<phrase section="default" code="on"><![CDATA[p&aring;]]></phrase>
+<phrase section="users" code="orgaddress"><![CDATA[Adresse:]]></phrase>
+<phrase section="users" code="orgcity"><![CDATA[By:]]></phrase>
+<phrase section="users" code="orgcountry"><![CDATA[Land:]]></phrase>
+<phrase section="users" code="orgfax"><![CDATA[Fax:]]></phrase>
+<phrase section="users" code="orgname"><![CDATA[Organisasjonsnavn:]]></phrase>
+<phrase section="users" code="orgphone"><![CDATA[Telefon:]]></phrase>
+<phrase section="users" code="orgprofile"><![CDATA[Organisasjonsprofil]]></phrase>
+<phrase section="users" code="orgstate"><![CDATA[Kommune:]]></phrase>
+<phrase section="users" code="orgupdated"><![CDATA[Endring av din organisasjonsprofil var vellykket]]></phrase>
+<phrase section="users" code="orgwebsite"><![CDATA[Nettside:]]></phrase>
+<phrase section="users" code="orgzip"><![CDATA[Postnummer:]]></phrase>
+<phrase section="default" code="pagination"><![CDATA[Side %s av %s]]></phrase>
+<phrase section="users" code="passworddetails"><![CDATA[Passorddetaljer]]></phrase>
+<phrase section="mime" code="pdf"><![CDATA[PDF-dokument]]></phrase>
+<phrase section="mime" code="php"><![CDATA[PHP Script-fil]]></phrase>
+<phrase section="default" code="pleasetypeyourquery"><![CDATA[Vennligst skriv inn dine s&oslash;kekriterier her]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Vennligst skriv inn ditt sp&oslash;rsm&aring;l her]]></phrase>
+<phrase section="mime" code="png"><![CDATA[PNG-bilde]]></phrase>
+<phrase section="default" code="postedby"><![CDATA[Skriv en ny kommentar]]></phrase>
+<phrase section="default" code="postnewcomment"><![CDATA[Skriv en ny kommentar]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[Powered by Kayako %s Help Desk Software]]></phrase>
+<phrase section="mime" code="ppt"><![CDATA[PowerPoint Dok]]></phrase>
+<phrase section="mime" code="pptx"><![CDATA[PowerPoint Dok]]></phrase>
+<phrase section="users" code="praddemail"><![CDATA[Legg til e-post]]></phrase>
+<phrase section="users" code="preferencestitle"><![CDATA[Alternativer]]></phrase>
+<phrase section="users" code="prenabledst"><![CDATA[Aktiver sommertid:]]></phrase>
+<phrase section="users" code="prfullname"><![CDATA[Fullt navn:]]></phrase>
+<phrase section="default" code="private"><![CDATA[[ Privat ]]]></phrase>
+<phrase section="users" code="prlanguage"><![CDATA[Spr&aring;k:]]></phrase>
+<phrase section="users" code="prnoemailprovided"><![CDATA[Du m&aring; oppgi minst en gyldig e-postadresse]]></phrase>
+<phrase section="users" code="profiledetails"><![CDATA[Profildetaljer]]></phrase>
+<phrase section="users" code="profiletitle"><![CDATA[My profil]]></phrase>
+<phrase section="users" code="prorganization"><![CDATA[Organisasjon:]]></phrase>
+<phrase section="users" code="prphone"><![CDATA[Telefonnummer:]]></phrase>
+<phrase section="users" code="prphoneregistered"><![CDATA["%s" telefonnummer er allerede registrert.]]></phrase>
+<phrase section="users" code="prprofileimage"><![CDATA[Profilbilde:]]></phrase>
+<phrase section="users" code="prprofileupdate"><![CDATA[Din profil har blitt oppdatert]]></phrase>
+<phrase section="users" code="prtimezone"><![CDATA[Tidssone:]]></phrase>
+<phrase section="users" code="prtitleposition"><![CDATA[Tittel/stilling:]]></phrase>
+<phrase section="users" code="prupdated"><![CDATA[Innstillingene er blitt oppdatert]]></phrase>
+<phrase section="users" code="pwhidden"><![CDATA[[ Skjult ]]]></phrase>
+<phrase section="mime" code="ram"><![CDATA[Real Audio-fil]]></phrase>
+<phrase section="mime" code="rar"><![CDATA[RAR-fil]]></phrase>
+<phrase section="default" code="readmore"><![CDATA[Les mer &raquo;]]></phrase>
+<phrase section="knowledgebase" code="recentarticles"><![CDATA[Nyeste artikler]]></phrase>
+<phrase section="users" code="regemail"><![CDATA[E-post:]]></phrase>
+<phrase section="users" code="regemailregistered"><![CDATA[E-postadressen er allerede registrert. Bruk glemt passord funksjonen til &aring; hente passordet ditt, eller angi en annen e-postadresse.]]></phrase>
+<phrase section="users" code="regemailregisteredsmall"><![CDATA[E-postadressen "%s" er allerede registrert.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectfooter"><![CDATA[N&aring;r du er registrert kan du opprette en nye henvendelser direkte ved &aring; sende oss en e-post. Vi beklager eventuelle problemer som har skapt.]]></phrase>
+<phrase section="ticketemails" code="regemailrejectintro"><![CDATA[Din henvendelse har ikke blitt akseptert i v&aring;rt system. Du m&aring; opprette en konto f&oslash;r du kan opprette supportsaker via e-post. Vennligst registrer deg via denne linken:]]></phrase>
+<phrase section="ticketemails" code="regemailrejectsub"><![CDATA[Registrering er n&oslash;dvendig: Kan dessverre ikke lagre din henvendelse.]]></phrase>
+<phrase section="users" code="regfullname"><![CDATA[Fullt navn:]]></phrase>
+<phrase section="users" code="reginvalidemail"><![CDATA[Ugyldig e-postadresse ble angitt]]></phrase>
+<phrase section="users" code="registerdesc"><![CDATA[Vennligst fyll ut feltene nedenfor. N&aring;r du er registrert m&aring; du bekrefte din e-postadresse for &aring; aktivere kontoen din.]]></phrase>
+<phrase section="users" code="registeremailsubject"><![CDATA[Velkommen til %s supportsenter]]></phrase>
+<phrase section="users" code="registeremailvalidationsubject"><![CDATA[Registrering p&aring; %s supportsenter]]></phrase>
+<phrase section="users" code="registersuccessemail"><![CDATA[Denne meldingen er en bekreftelse p&aring; du n&aring; er registrert i v&aring;rt supportsenter.
+
+Registrert e-post: %3$s
+Passord: [SKJULT]
+
+Du kan bes&oslash;ke v&aring;r Support Desk n&aring;r du m&aring;tte &oslash;nske ved &aring; g&aring; til: %2$s
+
+Ta gjerne kontakt om du har noen sp&oslash;rsm&aring;l.
+
+Med vennlig hilsen,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registersuccesstitle"><![CDATA[Vellykket registrering]]></phrase>
+<phrase section="users" code="registertitle"><![CDATA[Opprett ny konto]]></phrase>
+<phrase section="users" code="registervalidateemail"><![CDATA[Vi har mottatt din registreringsforesp&oslash;rsel via %1$s supportsenter (%2$s).
+
+F&oslash;r du kan bruke den nye kontoen m&aring; du aktivere det - dette sikrer e-postadressen du oppga er riktig, og tilh&oslash;rer deg.
+For &aring; aktivere kontoen, kan du klikke p&aring; lenken nedenfor eller kopiere og lime inn lenken i din nettleserens adresselinje:
+
+%3$s
+
+Hvis du tror du har mottatt denne meldingen ved en feil, trenger du ikke &aring; ta noe for &aring; avslutte kontoen. Kontoen vil ikke bli aktivert, og du vil ikke motta flere meldinger fra oss.
+
+Med vennlig hilsen,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registerwelcomeemail"><![CDATA[Denne meldingen er en bekreftelse p&aring; du n&aring; er registrert i v&aring;rt supportsystem.
+
+Registrert e-post: %3$s
+Passord: %4$s
+
+Du kan bes&oslash;ke v&aring;r Support Desk n&aring;r du m&aring;tte &oslash;nske ved &aring; g&aring; til: %2$s
+
+Ta gjerne kontakt om du har noen sp&oslash;rsm&aring;l.
+
+Med vennlig hilsen,
+
+
+%1$s]]></phrase>
+<phrase section="users" code="registrationdetails"><![CDATA[Registreringsdetaljer]]></phrase>
+<phrase section="users" code="regpassword"><![CDATA[Passord:]]></phrase>
+<phrase section="users" code="regpasswordrepeat"><![CDATA[Passord (gjenta):]]></phrase>
+<phrase section="users" code="regpwnomatch"><![CDATA[Passordene du skrev inn er ikke like.]]></phrase>
+<phrase section="users" code="regsignup"><![CDATA[Registrer deg]]></phrase>
+<phrase section="users" code="regsuccessdesc"><![CDATA[Tusen takk for din registrering! En kopi av dine registreringsdetaljer er sendt deg p&aring; e-post. Vennligst  benytt logginskjema ved siden av denne teksten f&aring;r &aring; logge p&aring;.]]></phrase>
+<phrase section="default" code="rememberme"><![CDATA[Husk meg]]></phrase>
+<phrase section="default" code="reply"><![CDATA[Svar]]></phrase>
+<phrase section="default" code="replytocomment"><![CDATA[Svar p&aring; kommentar]]></phrase>
+<phrase section="default" code="requiredfieldempty"><![CDATA[En av de p&aring;krevde feltene er tomme]]></phrase>
+<phrase section="default" code="rssfeed"><![CDATA[RSS Feed]]></phrase>
+<phrase section="mime" code="rtf"><![CDATA[Rich Text Format-fil]]></phrase>
+<phrase section="default" code="salutationdr"><![CDATA[Dr.]]></phrase>
+<phrase section="default" code="salutationmiss"><![CDATA[Fr.]]></phrase>
+<phrase section="default" code="salutationmr"><![CDATA[Mr.]]></phrase>
+<phrase section="default" code="salutationmrs"><![CDATA[Fru]]></phrase>
+<phrase section="default" code="searchbutton"><![CDATA[S&Oslash;K]]></phrase>
+<phrase section="default" code="searchresults"><![CDATA[S&oslash;keresultater]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Hvis du ikke finner noen l&oslash;sning p&aring; problemet i v&aring;r kunnskapsbase kan du sende inn en supporthenvendelse ved &aring; velge passende avdeling nedenfor.]]></phrase>
+<phrase section="tickets" code="selectdepartmenttitle"><![CDATA[Velg en avdeling]]></phrase>
+<phrase section="tickets" code="st_department"><![CDATA[Avdeling]]></phrase>
+<phrase section="tickets" code="st_email"><![CDATA[E-post]]></phrase>
+<phrase section="tickets" code="st_fullname"><![CDATA[Fullt navn]]></phrase>
+<phrase section="tickets" code="st_messagedetails"><![CDATA[Meldingsdetaljer]]></phrase>
+<phrase section="tickets" code="st_priority"><![CDATA[Prioritet]]></phrase>
+<phrase section="tickets" code="st_subject"><![CDATA[Emne]]></phrase>
+<phrase section="tickets" code="st_subjectconfirm"><![CDATA[Emne: ]]></phrase>
+<phrase section="tickets" code="st_ticketid"><![CDATA[Henvendelse ID]]></phrase>
+<phrase section="tickets" code="st_type"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="st_yourcomments"><![CDATA[Kommentarer]]></phrase>
+<phrase section="tickets" code="st_yourfeedback"><![CDATA[Din tilbakemelding]]></phrase>
+<phrase section="tickets" code="sterr_invaliddepartment"><![CDATA[Ugyldig avdeling ble angitt; vennligst start p&aring; nytt.]]></phrase>
+<phrase section="tickets" code="sterr_invalidpriority"><![CDATA[Ugyldig prioritet for henvendelsen ble angitt; vennligst start p&aring; nytt.]]></phrase>
+<phrase section="tickets" code="sterr_invalidtype"><![CDATA[Ugyldig type for henvendelsen ble angitt; vennligst start p&aring; nytt.]]></phrase>
+<phrase section="tickets" code="submitticketdepartments"><![CDATA[Avdelinger]]></phrase>
+<phrase section="default" code="subscribe"><![CDATA[Abonnere]]></phrase>
+<phrase section="news" code="subscriberregistered"><![CDATA[%s abonnerer allerede til disse nyhetsoppdateringene.]]></phrase>
+<phrase section="default" code="supportcenterfield"><![CDATA[Supportsenter:]]></phrase>
+<phrase section="ticketemails" code="surveycta"><![CDATA[For &aring; utf&oslash;re unders&oslash;kelsen, klikk p&aring; f&oslash;lgende link: ]]></phrase>
+<phrase section="tickets" code="surveydesc"><![CDATA[Takk for at du utf&oslash;rte unders&oslash;kelsen. Dine tilbakemeldinger er viktig for oss og vil hjelpe oss til &aring; forbedre kundeopplevelsen ved v&aring;rt supportsenter!]]></phrase>
+<phrase section="ticketemails" code="surveydescription1"><![CDATA[Som en del av v&aring;rt &oslash;nske om &aring; alltid forbedre kundeopplevelsen ved v&aring;rt supportsenter vil vi gjerne vite hva du syntes om oss.]]></phrase>
+<phrase section="ticketemails" code="surveydescription2"><![CDATA[Du er invitert til en kort unders&oslash;kelse om hvor forn&oslash;yd du er  med oss. Unders&oslash;kelsen er kort med noen f&aring; svaralternativer.]]></phrase>
+<phrase section="ticketemails" code="surveydescription3"><![CDATA[Det b&oslash;r ikke ta mer enn ett minutt &aring; besvare (vi lover!).]]></phrase>
+<phrase section="ticketemails" code="surveyfooter"><![CDATA[Takk p&aring; forh&aring;nd,]]></phrase>
+<phrase section="ticketemails" code="surveyintro"><![CDATA[Denne e-posten gjelder din siste henvendelse]]></phrase>
+<phrase section="ticketemails" code="surveysubfooter"><![CDATA[Din tilbakemelding er viktig for oss og vi er takknemlige ditt bidrag.]]></phrase>
+<phrase section="mime" code="swf"><![CDATA[Macromedia Flash-fil]]></phrase>
+<phrase section="tickets" code="taddfile"><![CDATA[Legg til fil]]></phrase>
+<phrase section="mime" code="tar"><![CDATA[TAR-fil]]></phrase>
+<phrase section="news" code="thankyousubscriber"><![CDATA[Takk for at du abonnerer p&aring; v&aring;re nyhetsoppdateringer.]]></phrase>
+<phrase section="news" code="thankyousubscribervalidate"><![CDATA[Tusen takk. Vennligst sjekk din e-post for &aring; bekrefte ditt abonnement.]]></phrase>
+<phrase section="tickets" code="thankyousurvey"><![CDATA[Takk for din tilbakemelding!]]></phrase>
+<phrase section="news" code="thankyouunsubscriber"><![CDATA[Du har avsluttet abonnementet v&aring;re nyheter.]]></phrase>
+<phrase section="ticketemails" code="thattachments"><![CDATA[Vedlegg]]></phrase>
+<phrase section="ticketemails" code="thbcc"><![CDATA[Skulte mottakere (Blindkopi)]]></phrase>
+<phrase section="ticketemails" code="thcc"><![CDATA[Mottaker (Kopi)]]></phrase>
+<phrase section="ticketemails" code="thclient"><![CDATA[Klient]]></phrase>
+<phrase section="ticketemails" code="thpostedon"><![CDATA[Skrevet den:]]></phrase>
+<phrase section="ticketemails" code="threcipient"><![CDATA[Mottaker]]></phrase>
+<phrase section="ticketemails" code="thstaff"><![CDATA[Ansatte]]></phrase>
+<phrase section="ticketemails" code="ththirdparty"><![CDATA[Tredjepart]]></phrase>
+<phrase section="ticketemails" code="ticketdetails"><![CDATA[Detaljer vedr. henvendelsen]]></phrase>
+<phrase section="ticketemails" code="tickethistory"><![CDATA[Historie vedr. henvendelsen]]></phrase>
+<phrase section="tickets" code="ticketpermdenied"><![CDATA[Ugyldig ID p&aring; henvendelsen eller s&aring; har du ikke nok rettigheter til &aring; se denne saken]]></phrase>
+<phrase section="tickets" code="ticketsubmitteddesc"><![CDATA[Vi har mottatt din henvendelse og vi vil snart komme tilbake med mer informasjon. Du kan logge p&aring; v&aring;rt supportsenter eller sjekke din innboks for ytterligere oppdateringer.]]></phrase>
+<phrase section="tickets" code="ticketsubmittedtitle"><![CDATA[Din henvendelse er mottatt]]></phrase>
+<phrase section="tickets" code="ticketsurveytickettitle"><![CDATA[Unders&oslash;kelse nr: ]]></phrase>
+<phrase section="tickets" code="ticketviewticketidtitle"><![CDATA[Vis henvendelsenummer: ]]></phrase>
+<phrase section="tickets" code="ticketviewtickettitle"><![CDATA[Vis alle henvendelser]]></phrase>
+<phrase section="tickets" code="tldepartment"><![CDATA[Avdeling]]></phrase>
+<phrase section="tickets" code="tllastreplier"><![CDATA[Siste som svarte]]></phrase>
+<phrase section="tickets" code="tllastupdate"><![CDATA[Sist oppdatert]]></phrase>
+<phrase section="tickets" code="tlpriority"><![CDATA[Prioritet]]></phrase>
+<phrase section="tickets" code="tlstatus"><![CDATA[Status]]></phrase>
+<phrase section="tickets" code="tlticketid"><![CDATA[Henvendelses-ID]]></phrase>
+<phrase section="tickets" code="tltype"><![CDATA[Type]]></phrase>
+<phrase section="tickets" code="tpemailforwardedto"><![CDATA[Videresendt til: %s]]></phrase>
+<phrase section="tickets" code="tpemailto"><![CDATA[E-post til: %s]]></phrase>
+<phrase section="tickets" code="tppostedon"><![CDATA[Skrevet den: %s]]></phrase>
+<phrase section="tickets" code="trash"><![CDATA[S&oslash;ppel]]></phrase>
+<phrase section="troubleshooter" code="trattachments"><![CDATA[Vedlegg]]></phrase>
+<phrase section="troubleshooter" code="trback"><![CDATA[&laquo; Tilbake]]></phrase>
+<phrase section="troubleshooter" code="trcategoryviews"><![CDATA[ (%d visninger)]]></phrase>
+<phrase section="troubleshooter" code="trnext"><![CDATA[Neste &raquo;]]></phrase>
+<phrase section="troubleshooter" code="trnextsteps"><![CDATA[Neste steg]]></phrase>
+<phrase section="troubleshooter" code="troubleshooter"><![CDATA[Feils&oslash;ker]]></phrase>
+<phrase section="troubleshooter" code="troubleshooterdesc"><![CDATA[Feils&oslash;keren hjelper deg gjennom flere steg for &aring; diagnostisere og l&oslash;se vanlige problemer. Start med &aring; velge kategori for feilen.]]></phrase>
+<phrase section="tickets" code="tsupdate"><![CDATA[Oppdatert den: %s]]></phrase>
+<phrase section="mime" code="txt"><![CDATA[Text-fil]]></phrase>
+<phrase section="default" code="unable_to_execute"><![CDATA[Kan ikke kj&oslash;re %s]]></phrase>
+<phrase section="tickets" code="unassigned"><![CDATA[Ikke tilordnet]]></phrase>
+<phrase section="default" code="unsubscribe"><![CDATA[Avslutt abonnement]]></phrase>
+<phrase section="tickets" code="updatedticketproperties"><![CDATA[Vellykket oppdatering av detaljer for henvendelsen]]></phrase>
+<phrase section="tickets" code="uploadfiles"><![CDATA[Last opp fil(er)]]></phrase>
+<phrase section="users" code="userfirstprompt"><![CDATA[Vellykket innlogging. Vennligst skriv inn dine profildetaljer nedenfor.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectfooter"><![CDATA[S&aring; snart din brukerkonto er godkjent kan du sende oss supporthenvendelser direkte via e-post. Vi beklager eventuelle problemer dette har for&aring;rsaket.]]></phrase>
+<phrase section="ticketemails" code="validationemailrejectsub"><![CDATA[Brukerkontoen ble ikke akseptert: Kan ikke opprette ny sak]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_generic"><![CDATA[Din henvendelse ble ikke godkjent i v&aring;re systemer. Selv om en brukerkonto eksisterer for din e-postadresse s&aring; er denne kontoen forel&oslash;pig ikke godkjent.]]></phrase>
+<phrase section="ticketemails" code="validationmailrejectintro_staff"><![CDATA[Din henvendelse ble ikke godkjent i v&aring;re systemer. Selv om en brukerkonto eksisterer for din e-postadresse s&aring; m&aring; alle kontoer bli manuelt godkjent av v&aring;r supportadministrator. Inntil dette er gjort vil det dessverre ikke v&aelig;re mulig &aring; sende e-post til v&aring;rt supportsenter.]]></phrase>
+<phrase section="users" code="validationpendingesc"><![CDATA[Takk for din registrering. Vi har sendt deg en e-post med en aktiveringslink. Vennligst f&oslash;lg denne linken for &aring; bekrefte din e-postadresse. Du m&aring; gj&oslash;re dette f&oslash;r du kan logge p&aring;.]]></phrase>
+<phrase section="users" code="validationpendingtitle"><![CDATA[E-postbekreftelse kreves]]></phrase>
+<phrase section="default" code="vardate1"><![CDATA[%dd %dh %dm]]></phrase>
+<phrase section="default" code="vardate2"><![CDATA[%dh %dm %ds]]></phrase>
+<phrase section="default" code="vardate3"><![CDATA[%dm %ds]]></phrase>
+<phrase section="default" code="vardate4"><![CDATA[%ds]]></phrase>
+<phrase section="users" code="verifyregistration"><![CDATA[Bekreft registreringen]]></phrase>
+<phrase section="tickets" code="verifyticketsubmission"><![CDATA[Bekreft innsending av henvendelse]]></phrase>
+<phrase section="default" code="viewallnews"><![CDATA[Vis alle nyheter]]></phrase>
+<phrase section="tickets" code="viewresolvedt"><![CDATA[Vis l&oslash;ste henvendelser]]]></phrase>
+<phrase section="tickets" code="vtcreated"><![CDATA[Opprettet:]]></phrase>
+<phrase section="tickets" code="vtdepartment"><![CDATA[AVDELING]]></phrase>
+<phrase section="tickets" code="vtowner"><![CDATA[EIER]]></phrase>
+<phrase section="tickets" code="vtpostreply"><![CDATA[Svar]]></phrase>
+<phrase section="tickets" code="vtpriority"><![CDATA[PRIORITET]]></phrase>
+<phrase section="tickets" code="vtstatus"><![CDATA[STATUS]]></phrase>
+<phrase section="tickets" code="vttype"><![CDATA[TYPE]]></phrase>
+<phrase section="tickets" code="vtupdated"><![CDATA[Oppdatert:]]></phrase>
+<phrase section="ticketemails" code="watcherprefix"><![CDATA[%s (%s) svarte med:]]></phrase>
+<phrase section="mime" code="wav"><![CDATA[WAV-fil]]></phrase>
+<phrase section="default" code="widgethome"><![CDATA[Hjem]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Kunnskapsbase]]></phrase>
+<phrase section="default" code="widgetnews"><![CDATA[Nyheter]]></phrase>
+<phrase section="default" code="widgetregister"><![CDATA[Registrering]]></phrase>
+<phrase section="default" code="widgetsubmitticket"><![CDATA[Ny henvendelse]]></phrase>
+<phrase section="default" code="widgettroubleshooter"><![CDATA[Probleml&oslash;ser]]></phrase>
+<phrase section="default" code="widgetviewtickets"><![CDATA[Vis alle henvendelser]]></phrase>
+<phrase section="mime" code="xls"><![CDATA[Excel-fil]]></phrase>
+<phrase section="mime" code="xlsx"><![CDATA[Excel-fil]]></phrase>
+<phrase section="default" code="yes"><![CDATA[Ja]]></phrase>
+<phrase section="tickets" code="yourticketdetailsdesc"><![CDATA[Fyll ut henvendelse detaljer nedenfor. Hvis det gjelder et problem husk &aring; oppgi s&aring; mange detaljer som mulig som er relevant til problemet.]]></phrase>
+<phrase section="tickets" code="yourticketdetailstitle"><![CDATA[Dine henvendelse detaljer]]></phrase>
+<phrase section="mime" code="zip"><![CDATA[ZIP-fil]]></phrase>
+</swiftlanguage>
